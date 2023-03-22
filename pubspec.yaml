@@ -14,7 +14,7 @@ dependencies:
   cached_network_image: ^3.1.0
   carousel_slider: ^4.0.0
   desktop_notifications: ^0.6.3
-  dio: ^4.0.0
+  dio: ^5.0.3
   flutter_localizations: 
     sdk: flutter
   file_picker: ^4.3.2
